@@ -1,0 +1,15 @@
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.exe
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.deps.json
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.dll
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.pdb
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.sourcelink.json
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.dll
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\refint\AtelierStock.dll
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.pdb
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documents\Cours-EPSI\2025-2026\C#\CoursTestUnitCsharp\AtelierStock\AtelierStock\obj\Debug\net10.0\ref\AtelierStock.dll

@@ -19,7 +19,7 @@
         public string Reference => reference;
         public string Libelle => libelle;
         public int Stocks => stocks; // { get { return stocks; } }
-        public decimal PrixVente => prixAchat * pourcentageMarge;
+        public decimal PrixVente => prixAchat * (1 + pourcentageMarge);
         public decimal PrixAchat => prixAchat;
         #endregion
 
@@ -32,8 +32,9 @@
         /// <returns>Valeur réellement retirée inférieure (rupture) ou égale à la quantité</returns>
         public int Sortir(int quantite)
         {
-            stocks -= quantite;
-            return quantite;
+            int quantiteRetireee = Math.Min(quantite, stocks);
+            stocks -= quantiteRetireee;
+            return quantiteRetireee;
         }
 
         public void Rentrer(int quantite)
