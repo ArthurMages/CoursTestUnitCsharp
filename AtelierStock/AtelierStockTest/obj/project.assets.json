@@ -1631,19 +1631,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arthu\\.nuget\\packages\\": {}
+    "C:\\Users\\simon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documents\\Cours-EPSI\\2025-2026\\C#\\CoursTestUnitCsharp\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
+      "projectUniqueName": "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
       "projectName": "AtelierStockTest",
-      "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Cours-EPSI\\2025-2026\\C#\\CoursTestUnitCsharp\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
-      "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Cours-EPSI\\2025-2026\\C#\\CoursTestUnitCsharp\\AtelierStock\\AtelierStockTest\\obj\\",
+      "projectPath": "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
+      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStockTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -1655,8 +1655,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\arthu\\OneDrive\\Documents\\Cours-EPSI\\2025-2026\\C#\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
-              "projectPath": "C:\\Users\\arthu\\OneDrive\\Documents\\Cours-EPSI\\2025-2026\\C#\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj"
+            "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
+              "projectPath": "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj"
             }
           }
         }
