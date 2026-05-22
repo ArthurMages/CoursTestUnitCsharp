@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {}
+    "c:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
+    "c:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
+        "projectUniqueName": "c:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
         "projectName": "AtelierStock",
-        "projectPath": "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
+        "projectPath": "c:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\obj\\",
+        "outputPath": "c:\\Users\\simon\\Desktop\\Perso\\CoursTestUnitCsharp\\AtelierStock\\AtelierStock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
